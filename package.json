@@ -1,0 +1,22 @@
+{
+  "name": "@xlayers/vue-codegen",
+  "version": "0.0.1",
+  "peerDependencies": {
+    "@angular/common": "^8.0.0",
+    "@angular/core": "^8.0.0",
+    "@xlayers/web-codegen": "*"
+  },
+  "main": "bundles/xlayers-vue-codegen.umd.js",
+  "module": "fesm5/xlayers-vue-codegen.js",
+  "es2015": "fesm2015/xlayers-vue-codegen.js",
+  "esm5": "esm5/xlayers-vue-codegen.js",
+  "esm2015": "esm2015/xlayers-vue-codegen.js",
+  "fesm5": "fesm5/xlayers-vue-codegen.js",
+  "fesm2015": "fesm2015/xlayers-vue-codegen.js",
+  "typings": "xlayers-vue-codegen.d.ts",
+  "metadata": "xlayers-vue-codegen.metadata.json",
+  "sideEffects": false,
+  "dependencies": {
+    "tslib": "^1.9.0"
+  }
+}
